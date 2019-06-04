@@ -1,0 +1,16 @@
+#main {
+  margin: auto;
+  text-align: center;
+}
+
+img {
+  width: 45%;
+  height: 25%;
+  align-self: auto;
+}
+
+.col-md-9,
+.card.card-body.mb-3 {
+  width: 70%;
+  margin: auto;
+}
