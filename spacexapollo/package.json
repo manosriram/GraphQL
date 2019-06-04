@@ -1,0 +1,18 @@
+{
+  "name": "spacexapollo",
+  "version": "1.0.0",
+  "description": "SpaceX API using GraphQL.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "A.Mano Sriram",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.1",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.1"
+  }
+}
